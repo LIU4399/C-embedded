@@ -1,2 +1,2 @@
-# C-embedded
-for STM32F1/F4/F7
+# Embedded-C
+For STM32F1/F4/F7
